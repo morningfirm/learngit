@@ -6,3 +6,4 @@ Create a new branch is quick.
 Create a new branch is quick and simple.
 Add merge.
 Test ff merge.
+Test Fixed Bug.
